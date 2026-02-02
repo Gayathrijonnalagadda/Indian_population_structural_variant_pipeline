@@ -94,7 +94,7 @@ These errors taught me real-world debugging, resilience, and the importance of m
    
 2. Run the pipeline:
    ```bash
-  python main.py
+      python main.py
 
 ## Outputs appear in output/:
 - sv_results.csv: Table of matching SVs (sorted by SAS_AF)
