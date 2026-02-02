@@ -106,8 +106,7 @@ These errors taught me real-world debugging, resilience, and the importance of m
 Download VCF → Unzip → Parse line-by-line → Filter by gene regions & SV type → Extract population frequencies → Save table + plots.
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1fe7f847-0fc6-4973-9fdc-6bd2a8c8f206" />
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/a5e7aca4-5285-43db-8952-5c1541323cd0" />
--![Uploading Screenshot (25).png<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/4577fe30-e031-421b-9375-2e0f1f21e55c" />
-…]()
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/4577fe30-e031-421b-9375-2e0f1f21e55c" />
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/4390c680-70b9-47cd-8971-58a45c34bdce" />
 
 ## Future Prospects
