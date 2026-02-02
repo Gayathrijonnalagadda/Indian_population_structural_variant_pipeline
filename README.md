@@ -1,4 +1,4 @@
-# Indian Population Structural Variant Pipeline
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/a5e7aca4-5285-43db-8952-5c1541323cd0" /># Indian Population Structural Variant Pipeline
 
 A modular, reproducible Python pipeline that analyzes **structural variants (SVs)** from the **1000 Genomes Project Phase 3** (GRCh38 assembly) and compares their allele frequencies in **South Asian (Indian)** populations vs global ones, focusing on genes involved in nutrition and metabolism.
 
@@ -103,13 +103,17 @@ These errors taught me real-world debugging, resilience, and the importance of m
 - sv_size_distribution.png: Histogram of SV lengths per gene
 
 ## Basic workflow:
-Download VCF → Unzip → Parse line-by-line → Filter by gene regions & SV type → Extract population frequencies → Save table + plots.
+Download VCF → Unzip → Parse lin<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/4390c680-70b9-47cd-8971-58a45c34bdce" />
+e-by-line → Filter by gene regions & SV type → Extract population frequencies → Save table + plots.
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1fe7f847-0fc6-4973-9fdc-6bd2a8c8f206" />
 
 ## Future Prospects
 - Add exact gene annotation (Ensembl VEP API)
 - Integrate GWAS Catalog or UK Biobank for functional impact 
 - Build interactive dashboard (Streamlit/Plotly Dash)
-- Extend to tandem repeats or epigenomic data in Indian cohorts 
+-![Uploading Screenshot (25).png<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/4577fe30-e031-421b-9375-2e0f1f21e55c" />
+…]()
+ Extend to tandem repeats or epigenomic data in Indian cohorts 
 - Compare with clinical datasets (e.g., diabetes cohorts)
 
 ***This project sparked my interest in population-specific genomics and its link to nutrition — I hope it contributes to better understanding of health disparities in India.***
